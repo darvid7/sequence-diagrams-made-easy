@@ -7,7 +7,7 @@ For sequence diagrams we have shown the normal flow for each use case.
 
 ### 1. ServerStart
 
-<img src="/images/ServerStart.png" width="400" >
+<img src="/used/images/ServerStart.png" width="400" >
 
 #### High level overview:
 An admin starts the backend server running `npm run backend-start`.
