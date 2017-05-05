@@ -1,13 +1,8 @@
 # I LOVE LUCIDCHART
 
-A repo of renderable UML sequence diagrams in their markup language.
+A repo of renderable UML sequence diagrams in lucidchart's markup language.
 
-## TODOs:
-
-- Parse out 'ff'
-- Make notes that we abstracted some things out and that we show the normal flow of events (no async things)
-
-
-ADMIN -> Driver run() -> FullLambdaWeatherService run()
-
-UNderline == instance
+Sequence diagram notes:
+- underline = instance of class
+- format: object_name: class_name all underlined
+- markup doesn't support lifelines
