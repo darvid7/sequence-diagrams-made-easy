@@ -1,6 +1,6 @@
 # Starts in function FullLambdaWeatherService.retrieveAllMonitoredWeatherData()
 
-NodeJS Timer->FullLAmbdaWeatherService: retrieveAllMonitoredWeatherData()
+NodeJSTimer->FullLambdaWeatherService: retrieveAllMonitoredWeatherData()
 
 FullLambdaWeatherService->WeatherClient: retrieveWeatherLocationDataList(locations)
 
